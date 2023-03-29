@@ -1,3 +1,7 @@
+# Introduction
+
+This is a React app with the Emotion library as a practice of using CSS-in-JS. It features three hotel cards. Each card contains a main image, title, description, and buttons prompting the user to view more details about the hotel or book a room.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
