@@ -1,6 +1,7 @@
 # Introduction
 
-This is a React app with the Emotion library as a practice of using CSS-in-JS. It features three hotel cards. Each card contains a main image, title, description, and buttons prompting the user to view more details about the hotel or book a room.
+This is a React app with the Emotion library as a practice of using CSS-in-JS. It features three hotel cards. Each card contains a main image, title, description, and buttons prompting the user to view more details about the hotel or book a room. 
+[You can view the app here.]( https://odd-creator.surge.sh/)
 
 # Getting Started with Create React App
 
